@@ -6,8 +6,10 @@
 
 ## Snapshot ##
 ### 2 Layers Neural Network ###
-![2-layers](https://github.com/jaspertan18/simple-image-recognition_coursera/blob/main/2layer.PNG)
-![2-layers_accuracy](https://github.com/jaspertan18/simple-image-recognition_coursera/blob/main/2layer_accuracy.PNG)
+![2-layers](https://github.com/jaspertan18/simple-image-recognition_coursera/blob/main/snapshots/2layer.PNG)
+![2-layers_accuracy](https://github.com/jaspertan18/simple-image-recognition_coursera/blob/main/snapshots/2layer_accuracy.PNG)
 ### 4 Layers Neural Network ###
-![4-layers](https://github.com/jaspertan18/simple-image-recognition_coursera/blob/main/4layer.PNG)
-![4-layers_accuracy](https://github.com/jaspertan18/simple-image-recognition_coursera/blob/main/4layer_accuracy.PNG)
+![4-layers](https://github.com/jaspertan18/simple-image-recognition_coursera/blob/main/snapshots/4layer.PNG)
+![4-layers_accuracy](https://github.com/jaspertan18/simple-image-recognition_coursera/blob/main/snapshots/4layer_accuracy.PNG)
+### Sample Output ###
+![Sample Output](https://github.com/jaspertan18/simple-image-recognition_coursera/blob/main/snapshots/sampleoutput.PNG)
